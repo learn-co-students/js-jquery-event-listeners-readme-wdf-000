@@ -3,8 +3,6 @@ function getIt(){
 	$('p').on('click', function(){
 		alert('Hey!')
 	});
-
-
 }
 
 function frameIt(){
@@ -26,7 +24,6 @@ function pressIt(){
 			alert( "pressed g")
 		}
 	});
-
 }
 
 $(document).ready(function(){
@@ -36,5 +33,4 @@ $(document).ready(function(){
 	frameIt();
 	submitIt();
 	pressIt();
-
 });
