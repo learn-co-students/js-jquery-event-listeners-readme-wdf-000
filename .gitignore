@@ -2,3 +2,5 @@
 *.log
 .results.json
 node_modules
+*.swp
+*.log
